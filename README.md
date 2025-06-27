@@ -8,6 +8,8 @@ The description of the framework can be found in the following article:
 
 M. Selvaggio, F. Esposito, V. Lippiello and F. Ruggiero, "Shared-Control Teleoperation Methods for a Cable-Suspended Dual-Arm Unmanned Aerial Manipulator," 2024 International Conference on Unmanned Aircraft Systems (ICUAS), Chania - Crete, Greece, 2024, pp. 1132-1139, doi: 10.1109/ICUAS60882.2024.10557097.
 
+[Link to the article on IEEE.](https://ieeexplore.ieee.org/abstract/document/10557097?casa_token=_izzTBKkJtkAAAAA:o3QBEPYt_LsRXQlb8gBxWCz-qscV3UBDVdozkwPbtc-9gpeS8FkcCEL_-BNybMLbX4C3fO0m)
+
 # How to Launch the Simulations
 
 ## Push Wall Task
