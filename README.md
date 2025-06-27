@@ -2,6 +2,12 @@
 
 This repository contains the code for the simulations on Shared-Control Teleoperation Methods for a Cable-Suspended Dual-Arm Unmanned Aerial Manipulator. The code has been tested on Ubuntu 20.04 running ROS Noetic.
 
+# Article
+
+The description of the framework can be found in the following article: 
+
+M. Selvaggio, F. Esposito, V. Lippiello and F. Ruggiero, "Shared-Control Teleoperation Methods for a Cable-Suspended Dual-Arm Unmanned Aerial Manipulator," 2024 International Conference on Unmanned Aircraft Systems (ICUAS), Chania - Crete, Greece, 2024, pp. 1132-1139, doi: 10.1109/ICUAS60882.2024.10557097.
+
 # How to Launch the Simulations
 
 ## Push Wall Task
